@@ -1,5 +1,5 @@
 const farmAnimals = 'cow horse sheep pig chicken';
-const [soundCow, soindHorse, soundSheep, soundPig, soundChicken]=farmAnimals.split(" ");
+const [moo, neigh, baa, oink, cluck ]=farmAnimals.split(" ");
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 const [red, orange, yellow, green, blue, indigo, violet]=colors;
