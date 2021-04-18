@@ -30,7 +30,7 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 //const [,,,nestedJob,nestedPartner]=nestedMuppet;
-const [,song2,,song4,nestedJob,nestedPartner]=nestedMuppet.album.theMuppetMovie;
+const [ ,song2, ,song4,nestedJob,nestedPartner]=nestedMuppet.album.theMuppetMovie;
 
 // Strings
 
