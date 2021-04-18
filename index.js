@@ -29,8 +29,8 @@ const nestedMuppet = {
   nestedJob: 'Host of The Muppet Show',
   nestedPartner: 'Miss Piggy'
 };
-const [nestedMuppet,nestedColor,album ,nestedJob,nestedPartner]=nestedMuppet;
-
+const [,,,nestedJob,nestedPartner]=nestedMuppet;
+const [,song2,,song4]=nestedMuppet.album.theMuppetMovie;
 
 // Strings
 
